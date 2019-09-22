@@ -1,5 +1,8 @@
 ## Prerequisites
 ### 1. Clone kibana repo from github
+```
+git clone https://github.com/elastic/kibana.git
+```
 ### 2. Run
 ```
 yarn install

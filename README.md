@@ -1,3 +1,14 @@
+## Prerequisites
+### 1. Clone kibana repo from github
+### 2. Run
+```
+yarn install
+```
+```
+yarn kbn bootstrap
+```
+
+## Run the plugin
 ### 1. Run Kibana:
 from ./kibana/plugins/deduplicate run  
 ```
